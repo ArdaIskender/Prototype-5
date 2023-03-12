@@ -4,7 +4,7 @@
 - Random objects are tossed into the air on intervals
 - Objects are given random speed, position, and torque
 - If you click on an object, it is destroyed
-## Concepts and Skilss
+## Concepts and Skills
 - 2D View
 - AddTorque
 - Game Manager
